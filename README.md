@@ -1,4 +1,4 @@
-### HTML JavaScript
+### HTML JavaScript | JavaScript referências externas url
 
 <a href="https://github.com/user-attachments/assets/bf7d9533-6c07-4ad3-8090-4911faed3116">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/bf7d9533-6c07-4ad3-8090-4911faed3116" />
@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### O que o JavaScript pode fazer?
+### JavaScript referências externas url
 
 <a href="https://github.com/user-attachments/assets/3e4cca87-bd15-488d-b1af-d567c56a4fa3">
   <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/3e4cca87-bd15-488d-b1af-d567c56a4fa3" />
