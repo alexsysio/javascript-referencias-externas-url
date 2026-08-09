@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### JavaScript referências externas url - Um parágrafo
+### O que o JavaScript pode fazer? | JavaScript referências externas url - Um parágrafo
 
 <a href="https://github.com/user-attachments/assets/3e4cca87-bd15-488d-b1af-d567c56a4fa3">
   <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/3e4cca87-bd15-488d-b1af-d567c56a4fa3" />
