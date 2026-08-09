@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### JavaScript referências externas url
+### JavaScript referências externas url - Um parágrafo
 
 <a href="https://github.com/user-attachments/assets/3e4cca87-bd15-488d-b1af-d567c56a4fa3">
   <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/3e4cca87-bd15-488d-b1af-d567c56a4fa3" />
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-### JavaScript pode alterar o conteúdo HTML
+### JavaScript pode alterar o conteúdo HTML - Parágrafo alterado
 
 <a href="https://github.com/user-attachments/assets/8813154c-b81a-4c99-9e1f-4fb8599c3dd8">
   <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/8813154c-b81a-4c99-9e1f-4fb8599c3dd8" />
